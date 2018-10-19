@@ -4,9 +4,10 @@ env:
  - DIST=trusty
 
 python:
-   - "2.7_with_system_site_packages"
-   - "3.6_with_system_site_packages"
-   - "3.7_with_system_site_packages"
+   - "2.7"
+   - "3.5"
+   - "3.6"
+   - "3.7"
 
 addons:
    apt:
