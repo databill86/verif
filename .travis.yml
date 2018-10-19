@@ -5,6 +5,8 @@ env:
 
 python:
    - "2.7_with_system_site_packages"
+   - "3.6_with_system_site_packages"
+   - "3.7_with_system_site_packages"
 
 addons:
    apt:
